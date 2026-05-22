@@ -65,3 +65,19 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+
+/* Premium search term highlight styling */
+.search-highlight {
+  @apply bg-violet-100 text-violet-700 dark:bg-violet-950/60 dark:text-violet-300 px-1 py-0.5 rounded font-semibold transition-colors duration-300;
+}
+
+/* Custom bezier transition for the slide-out drawers */
+.drawer-transition {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Neon glow for tags */
+.neon-border {
+  box-shadow: 0 0 15px -3px rgba(124, 58, 237, 0.15);
+}
+
