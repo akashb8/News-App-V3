@@ -5,7 +5,8 @@ A simple **React + TypeScript** application that fetches and displays the latest
 The project demonstrates how to fetch API data on component mount, use controlled inputs with dropdown filters, and dynamically render data in a React UI.
 
 ---
-![newsapp1](https://github.com/user-attachments/assets/cd02c002-64e3-498c-8a8b-51b6026491d3)
+!<img width="1920" height="957" alt="news v3" src="https://github.com/user-attachments/assets/36f89d97-d07b-448d-a637-5e8482b55809" />
+
 ---
 ## 🚀 Features
 
